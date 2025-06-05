@@ -60,10 +60,6 @@ smart-interview/
 ├── README.md
 └── requirements.txt
 
-bash
-Copy
-Edit
-
 ## ⚙️ Setup Instructions
 
 1. 🔽 Clone the repository
